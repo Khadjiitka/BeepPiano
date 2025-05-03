@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniPiano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b519b0f153930b52c74960d71df96bfab3b4e6de")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniPiano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniPiano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
