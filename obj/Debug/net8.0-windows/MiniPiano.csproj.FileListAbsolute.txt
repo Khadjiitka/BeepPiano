@@ -1,0 +1,16 @@
+C:\Users\Gidroid\source\repos\MiniPiano\bin\Debug\net8.0-windows\MiniPiano.exe
+C:\Users\Gidroid\source\repos\MiniPiano\bin\Debug\net8.0-windows\MiniPiano.deps.json
+C:\Users\Gidroid\source\repos\MiniPiano\bin\Debug\net8.0-windows\MiniPiano.runtimeconfig.json
+C:\Users\Gidroid\source\repos\MiniPiano\bin\Debug\net8.0-windows\MiniPiano.dll
+C:\Users\Gidroid\source\repos\MiniPiano\bin\Debug\net8.0-windows\MiniPiano.pdb
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.Form1.resources
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.dll
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\refint\MiniPiano.dll
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.pdb
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\MiniPiano.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\MiniPiano\obj\Debug\net8.0-windows\ref\MiniPiano.dll
